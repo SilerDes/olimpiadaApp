@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Olimpiada</string>
+    <string name="title_services_list">Проекты VK</string>
+    <string name="open_service_button">Перейти на ресурс</string>
+    <string name="warning_message_1">Не удалось получить сервсиы ВК, проверьте подключение к сети</string>
+    <string name="retry_button">Повторить</string>
+    <string name="warning_message_2">Этому приложению необходим доступ к External Storage. Проверьте состоние внешнего хранилища и перезапустите приложение</string>
+</resources>
